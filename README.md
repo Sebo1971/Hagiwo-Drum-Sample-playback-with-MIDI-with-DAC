@@ -1,4 +1,4 @@
-# Hagiwo-8-Drum-Sample-playback-with-MIDI-and-DACPlayback
+# Hagiwo-8-Drum-Sample-playback-with-MIDI-and-DAC-Playback
 
 Modified version of the Hagiwo $8 Drum Sample playback module.
 
